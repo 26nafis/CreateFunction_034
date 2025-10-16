@@ -1,4 +1,4 @@
-lambda jarijari : 3.14159 * jarijari
+luas = lambda jarijari : 3.14159 * jarijari**2
 
 try :
     jari =float(input("isikan nilai jari - jari : "))
